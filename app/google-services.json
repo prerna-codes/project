@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "55917666340",
+    "project_id": "chatdemo-cdc4f",
+    "storage_bucket": "chatdemo-cdc4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55917666340:android:27f706c12280ced00378b1",
+        "android_client_info": {
+          "package_name": "com.example.chatdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55917666340-qdepphjjuap808kdbi4v20r9jj5idc4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_LYfhjrSL53N_KuCrZjOBWyd4Sohjm3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55917666340-qdepphjjuap808kdbi4v20r9jj5idc4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
