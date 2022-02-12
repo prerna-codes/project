@@ -1,5 +1,4 @@
 package com.example.chatdemo;
-
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -17,7 +16,6 @@ import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
-
 public class MainActivity extends AppCompatActivity {
 
     ActivityMainBinding binding;
@@ -53,15 +51,12 @@ public class MainActivity extends AppCompatActivity {
             case R.id.settings:
                 Toast.makeText(this, "Setting Clicked", Toast.LENGTH_SHORT).show();
                 break;
-
             case R.id.logout:
                 auth.signOut();
                 Intent intent = new Intent(MainActivity.this, SignIn.class);
                 startActivity(intent);
                 break;
-
         }
-
         return true;
     }
 }

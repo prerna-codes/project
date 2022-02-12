@@ -1,5 +1,7 @@
 package com.example.chatdemo.Adapters;
 
+import android.net.UrlQuerySanitizer;
+
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;

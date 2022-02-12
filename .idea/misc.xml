@@ -4,9 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/ChatDemo/app/src/main/res/drawable-v24/ic_baseline_chat_24.xml" value="0.157" />
+        <entry key="..\:/ChatDemo/app/src/main/res/drawable/bg_et_message.xml" value="0.157" />
+        <entry key="..\:/ChatDemo/app/src/main/res/drawable/ic_baseline_person_pin_24.xml" value="0.157" />
+        <entry key="..\:/ChatDemo/app/src/main/res/layout/activity_chat_detail.xml" value="0.22" />
         <entry key="..\:/ChatDemo/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/ChatDemo/app/src/main/res/layout/activity_sign_in.xml" value="0.17552083333333332" />
         <entry key="..\:/ChatDemo/app/src/main/res/layout/activity_sign_up.xml" value="0.22" />
+        <entry key="..\:/ChatDemo/app/src/main/res/layout/fragment_chat.xml" value="0.14407866609662248" />
+        <entry key="..\:/ChatDemo/app/src/main/res/layout/fragment_chats.xml" value="0.14407866609662248" />
+        <entry key="..\:/ChatDemo/app/src/main/res/layout/sample_show_user.xml" value="0.3333333333333333" />
         <entry key="..\:/ChatDemo/app/src/main/res/menu/menu.xml" value="0.17552083333333332" />
       </map>
     </option>
